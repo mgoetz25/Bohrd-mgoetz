@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Bohr\'d</string>
+    <string name="author">Created by: Michael Goetz</string>
+    <string name="title_play">Play</string>
+    <string name="title_options">Options</string>
+    <string name="title_records">Records</string>
+    <string name="title_quit">Quit</string>
+    <string name="records_title">Records</string>
+    <string name="records_back">Back</string>
+    <string name="options_title">Options</string>
+    <string name="options_music">Music Volume</string>
+    <string name="options_sfx">SFX Volume</string>
+    <string name="options_themes">Themes</string>
+    <string name="options_themes_desc">Select Theme</string>
+    <string-array name="options_themes_array">
+        <item>Rainbow</item>
+        <item>Sunset</item>
+        <item>Pastel</item>
+        <item>Neon</item>
+        <item>Blackout</item>
+    </string-array>
+    <string name="options_reset">Reset Options</string>
+    <string name="options_records">Reset Records</string>
+    <string name="options_back">Back</string>
+    <string name="play_return">Return</string>
+    <string name="topleft">top left</string>
+    <string name="top">top</string>
+    <string name="topright">top right</string>
+    <string name="centerleft">center left</string>
+    <string name="center">center</string>
+    <string name="centerright">center right</string>
+    <string name="bottomleft">bottom left</string>
+    <string name="bottom">bottom</string>
+    <string name="bottomright">bottom right</string>
+    <string name="end_replay">Replay</string>
+    <string name="end_return">Title</string>
+    <string name="end_name">Enter your name</string>
+    <string name="confirm_message">Confirm resetting records?</string>
+    <string name="confirm_yes">Yes</string>
+    <string name="confirm_no">No</string>
+
+</resources>
