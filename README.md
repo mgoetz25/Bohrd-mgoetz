@@ -5,4 +5,10 @@ Android-based application where user plays a Simon/Einstein type memorization ga
 Users who score highly can record their names for the hi-score record screen, which is accessible via the main menu and stored using key-value pairs.
 There is an options screen as well for configuring volume, theme of the grid in-game, and whether they wish to see the banner when quitting advertising FSU's CS program.
 
+Release .apk file is located in app/release/app-release.apk
+
+Java files located in src/main/java/com/example/bohrd
+
+Resource files located in src/main/res
+
 (originally published March 4th, 2023)
