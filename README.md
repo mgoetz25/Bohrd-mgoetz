@@ -7,8 +7,8 @@ There is an options screen as well for configuring volume, theme of the grid in-
 
 Release .apk file is located in app/release/app-release.apk
 
-Java files located in src/main/java/com/example/bohrd
+Java files located in app/src/main/java/com/example/bohrd
 
-Resource files located in src/main/res
+Resource files located in app/src/main/res
 
 (originally published March 4th, 2023)
